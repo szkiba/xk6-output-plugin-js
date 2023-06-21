@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2023 Iván Szkiba
+#
+# SPDX-License-Identifier: MIT
+
+node_modules
+yarn-error.log
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json

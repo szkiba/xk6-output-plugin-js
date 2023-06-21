@@ -1,0 +1,10 @@
+{
+  "theme": "markdown",
+  "hideBreadcrumbs": true,
+  "hideInPageTOC": true,
+  "disableSources": true,
+  "entryPoints": ["src/index.d.ts"],
+  "plugin": ["typedoc-plugin-markdown"],
+  "readme": "none",
+  "out": "docs",
+}
